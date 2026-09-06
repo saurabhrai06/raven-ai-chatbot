@@ -1,0 +1,7 @@
+{
+  "python.defaultInterpreterPath": "${workspaceFolder}/myenv/bin/python",
+  "python.analysis.extraPaths": [
+    "${workspaceFolder}/myenv/lib/python3.14/site-packages",
+    "${workspaceFolder}"
+  ]
+}
